@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Appname -->
+    <string name="app_name">Notitieblok</string>
+
+    <!-- Titelbarstrings -->
+    <string name="titel_start_activity">Notities</string>
+    <string name="titel_notiz_acitivity">Notitie</string>
+
+    <!-- Fehlermeldungen -->
+    <string name="datei_lese_fehler">Kan bestand niet uitlezen!</string>
+    <string name="datei_speichern_fehler">Kan bestand niet wegschrijven! Tekst is gekopieerd naar het klembord.</string>
+    <string name="ordner_erstellen_fehler">Kan map niet creëren!</string>
+    <string name="init_fehler">Kan lijst niet opmaken; heropen de app!</string>
+    <string name="simple_error">Fout!</string>
+    <string name="share_error">Kan niet delen!</string>
+    <string name="no_external_storage_found">Geen externe opslag aangetroffen!</string>
+    <string name="cant_move_file">Kan bestand niet verplaatsen!</string>
+    <string name="clipboard_paste_fehler">Alleen tekst toegestaan!</string>
+    <string name="error_cannot_read_file">Kan bestand niet uitlezen</string>
+
+    <!-- Textbox -->
+    <string name="insert_text_here">Voer hier tekst in</string>
+
+    <!-- Items -->
+    <string name="settings_title">Instellingen</string>
+    <string name="new_notiz">Nieuwe notitie</string>
+    <string name="delete_notice">Verwijderen</string>
+    <string name="save_notice">Notitie opslaan</string>
+    <string name="share">Delen</string>
+    <string name="share_title">Delen via</string>
+    <string name="select_all">Alle bestanden selecteren</string>
+    <string name="sortieren_nach">Sorteren op</string>
+    <string name="sort_by_name">Sorteren op naam</string>
+    <string name="sort_by_importance">Sorteren op prioriteit</string>
+    <string name="not_sorted">Niet sorteren</string>
+    <string name="zwischenspeichern">Opslaan</string>
+    <!--<string name="sync_title">syncronise</string>-->
+
+
+    <!-- EditBar -->
+    <string name="insert_tab">Inspringing invoegen</string>
+    <string name="show_list">Lijst tonen</string>
+
+    <!-- OverlayButtons -->
+    <string name="cancel_button_text">Annuleren</string>
+    <string name="ok_button_text">Oké</string>
+    <string name="new_file">Nieuw bestand</string>
+    <string name="shareReceiverTitle">Kies een bestand</string>
+
+    <!-- Settings -->
+    <string name="automatic_capital">Automatisch hoofdlettergebruik</string>
+    <string name="Indication_of_notes">Maximaal aantal regels</string>
+    <string name="summary_capital_setting">Voorzie elke beginletter van een nieuwe regel van een hoofdletter</string>
+    <string name="max_rows_summary">Hoeveel regels er maximaal moeten worden getoond</string>
+    <string name="font_size">Tekstgrootte</string>
+    <string name="folder_destination">Bestemmingspad</string>
+    <string name="color_preference_titlebar_title">Kleur van titelbalk</string>
+    <string name="color_preference_titlebar_summary">Kies de kleur van de titelbalk</string>
+    <string name="color_preference_editbar_title">Kleur van werkbalk</string>
+    <string name="color_preference_editbar_summary">Kies de kleur van de werkbalk</string>
+
+    <!-- Dialog -->
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="file">Bestand</string>
+    <string name="text">Tekst</string>
+    <string name="move_files_dialog_message">Wil je de notities verplaatsen?</string>
+    <string name="delete_file_dialog_message">Wil je de notitie verwijderen?</string>
+    <string name="name_file_dialog_message">Voer een naam in voor de notitie</string>
+    <string name="progress_dialog_message">Even geduld…</string>
+    <string name="tab" translatable="false">"     "</string>
+    <string name="listString" translatable="false">"     - "</string>
+    <string name="unknown_error">Onbekende fout</string>
+    <string name="name_aendern">Naam wijzigen</string>
+    <string name="favorisieren">Toevoegen aan favorieten</string>
+    <string name="dringend">Urgent!!!</string>
+    <string name="wichtig">Belangrijk!!</string>
+    <string name="hat_zeit">Neem de tijd!</string>
+    <string name="zurueck_setzen">Standaardwaarden</string>
+    <string name="no_name_given">Geen naam opgegeven</string>
+    <string name="share_file_dialog_message">Wil je het delen als bestand of als tekst?</string>
+
+    <!-- Information -->
+    <string name="info_copied_to_clipboard">Tekst gekopieerd naar klembord</string>
+    <string name="sort_by_date">Sorteren op datum</string>
+    <string name="sort_by_name_desc">Sorteren op: Z -> A</string>
+    <string name="sort_by_name_asc">Sorteren op: A -> Z</string>
+    <string name="sort_by_date_desc">Sorteren op: Oud -> Nieuw</string>
+    <string name="sort_by_date_asc">Sorteren op: Nieuw -> Oud</string>
+    <string name="sort_by_importance_desc">Sorteren op: Onbelangrijk -> Urgent</string>
+    <string name="sort_by_importance_asc">Sorteren op: Urgent -> Onbelangrijk</string>
+    <string name="info_nichtspeicherbare_zeichen">Tekst bevat ongeldige tekens!</string>
+    <string name="info_notiz_gespeichert">Notitie opgeslagen</string>
+
+    <!-- Neues --><!-- Nur dass alles hier eingefügt wird und nicht da oben -->
+    <string name="Neu">Nieuwe verschijnen hieronder…</string>
+
+</resources>
